@@ -12,7 +12,7 @@ pandas==1.0.3
 pathtools==0.1.2
 pefile==2019.4.18
 psycopg2-binary==2.8.5
-PyInstaller==3.4
+PyInstaller==3.6
 PyQt5==5.14.2
 PyQt5-sip==12.7.2
 python-dateutil==2.8.1
